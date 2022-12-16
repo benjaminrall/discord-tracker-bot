@@ -11,12 +11,6 @@ TEST_DATA =  {
                 '2021-01-15': [2, 331, 200],
                 '2021-01-16': [4, 504, 373]
                 }, 
-            'Bella Diamondtiger#3608': 
-                {
-                '2021-01-14': [1, 412, 123],
-                '2021-01-15': [2, 231, 300],
-                '2021-01-16': [3, 304, 562]
-                }
             }
 
 FILE_PATH = "C:\\Users\\matan\\Desktop\\Coding\\Python\\Graph Plotter\\data.json"
